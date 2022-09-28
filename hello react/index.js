@@ -4,9 +4,6 @@ function MainContent(){
     )
 }
 
-
-
-
 ReactDOM.render(
     <div>
         <MainContent />
