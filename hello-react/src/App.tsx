@@ -10,6 +10,8 @@ function App() {
                 <li>It`s composable</li>
                 <li>It´s declarative</li>
                 <li>It´s actively maintained</li>
+                <li>It´s new stuff</li>
+                <li>...</li>
             </ol>
         </div>
     );
